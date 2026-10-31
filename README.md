@@ -1,1 +1,1 @@
-bash setup-github-project.sh greymist/campus-food-preorder
+bash setup-github-project.sh greymisttt/campus-food-preorder
